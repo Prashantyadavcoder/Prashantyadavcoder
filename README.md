@@ -64,6 +64,7 @@ Building useful digital experiences and exploring how AI can solve real-world pr
 
 ## 🌟 Projects
 
+- 🪖 **[AI Smart Helmet — Crash Detection & Emergency SOS](projects/ai-smart-helmet.md)** — BCA AI project combining ESP32, MPU6050, Edge Impulse TinyML, Bluetooth Classic and a MIT App Inventor Android app to detect crashes and send GPS-based emergency SMS alerts.
 - 📊 **[Excel-Net](https://github.com/Prashantyadavcoder/Excel-Net)** — public project repository
 - 🧪 **[Excel-Net-0](https://github.com/Prashantyadavcoder/Excel-Net-0)** — project repository
 - 🌐 **[SS Enterprises](https://github.com/Prashantyadavcoder/ssenterprises)** — web project repository
