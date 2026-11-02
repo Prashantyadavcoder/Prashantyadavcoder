@@ -52,6 +52,16 @@ Building useful digital experiences and exploring how AI can solve real-world pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
+## 🚀 Project Showcase
+
+<div align="center">
+
+<a href="https://github.com/Prashantyadavcoder/Excel-Net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashantyadavcoder&repo=Excel-Net&theme=tokyonight&hide_border=true" alt="Excel-Net repository card" /></a>
+<a href="https://github.com/Prashantyadavcoder/Excel-Net-0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashantyadavcoder&repo=Excel-Net-0&theme=tokyonight&hide_border=true" alt="Excel-Net-0 repository card" /></a>
+<a href="https://github.com/Prashantyadavcoder/ssenterprises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashantyadavcoder&repo=ssenterprises&theme=tokyonight&hide_border=true" alt="SS Enterprises repository card" /></a>
+
+</div>
+
 ## 🌟 Projects
 
 - 📊 **[Excel-Net](https://github.com/Prashantyadavcoder/Excel-Net)** — public project repository
@@ -85,12 +95,33 @@ Explore [all my repositories](https://github.com/Prashantyadavcoder?tab=reposito
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Prashantyadavcoder/Prashantyadavcoder/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+> The animation is generated automatically by GitHub Actions. The first run may take a few minutes.
+
 ## 🎯 What I'm Focusing On
 
 - Strengthening Python and programming fundamentals
 - Learning AI/ML concepts through hands-on practice
 - Building clean, responsive web applications
 - Improving project documentation and contributing to open source
+
+## 📬 Contact & Collaboration
+
+I'm open to connecting with developers, learners, and people building useful technology.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github)](https://github.com/Prashantyadavcoder)
+[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/Prashantyadavcoder?tab=repositories)
+
+</div>
 
 ## 🤝 Connect
 
