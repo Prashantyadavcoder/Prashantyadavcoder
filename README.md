@@ -12,6 +12,18 @@ Building useful digital experiences and exploring how AI can solve real-world pr
 
 </div>
 
+
+
+<div align="center">
+
+### ⚡ Coding • Learning • Building
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Learner;Web+Developer;Building+projects+one+commit+at+a+time" alt="Typing introduction" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prashantyadavcoder&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -54,6 +66,22 @@ Explore [all my repositories](https://github.com/Prashantyadavcoder?tab=reposito
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prashantyadavcoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantyadavcoder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prashantyadavcoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" width="95%" />
+
+</div>
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantyadavcoder&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
