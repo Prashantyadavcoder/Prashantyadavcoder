@@ -1,7 +1,6 @@
-<!-- PROFILE README — Prashant Yadav -->
 <div align="center">
 
-<img src="assets/prashant-banner.svg" alt="Prashant Yadav — AI & ML and Web Development" width="100%" />
+<img src="assets/prashant-banner.svg" alt="Prashant Yadav — AI and ML, Web Development" width="100%" />
 
 # Hi, I'm Prashant Yadav 👋
 
@@ -44,10 +43,10 @@ Building useful digital experiences and exploring how AI can solve real-world pr
 ## 🌟 Projects
 
 - 📊 **[Excel-Net](https://github.com/Prashantyadavcoder/Excel-Net)** — public project repository
-- 🧪 **[Excel-Net-0](https://github.com/Prashantyadavcoder/Excel-Net-0)** — public project repository
-- 🌐 **[ssenterprises](https://github.com/Prashantyadavcoder/ssenterprises)** — web project repository
+- 🧪 **[Excel-Net-0](https://github.com/Prashantyadavcoder/Excel-Net-0)** — project repository
+- 🌐 **[SS Enterprises](https://github.com/Prashantyadavcoder/ssenterprises)** — web project repository
 
-Visit [all my repositories](https://github.com/Prashantyadavcoder?tab=repositories) to explore more. I’m continuing to improve project descriptions and documentation.
+Explore [all my repositories](https://github.com/Prashantyadavcoder?tab=repositories) for more.
 
 ## 📈 GitHub Overview
 
